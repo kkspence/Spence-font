@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'spence';
+    src: url(myfont/SpenceBody-Regular.otf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+body {
+    padding: 50px;
+    font-family: spence;
+   
+
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h1, footer {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    font-size: 50px;
+}
+
+footer {
+    font-size: 25px;
+}
+
+footer a {
+    text-decoration: none;
+    color: darkgreen;
+}
+
+footer a:hover {
+    color: black;
+}
