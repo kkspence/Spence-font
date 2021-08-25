@@ -1,6 +1,7 @@
 @font-face {
-    font-family: 'spence';
-    src: url(myfont/SpenceBody-Regular.otf);
+    font-family: "spence";
+    src: url("myfont/SpenceBody-Regular.otf") format("otf"),
+    url("myfont/Spence-Regular.ttf") format("ttf");
     font-style: normal;
     font-weight: 100;
 }
